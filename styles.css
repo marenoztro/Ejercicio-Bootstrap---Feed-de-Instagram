@@ -1,0 +1,26 @@
+#titulo {
+    display: flex;
+    padding-left: 200px;
+}
+#foto {
+    padding: right 20px;
+}
+/*..boton1 {
+    display: flex;
+}*/
+
+#tres-puntos {
+    margin: 10px 5px 10px 380px 
+}
+
+/*.row {
+    object-fit:cover
+}*/
+
+/* .col {
+    display: block; width: 100%; height: 100%
+}*/
+
+/* .col {
+    overflow:hidden 
+}*/
